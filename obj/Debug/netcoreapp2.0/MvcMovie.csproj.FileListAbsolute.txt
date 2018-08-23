@@ -1,0 +1,11 @@
+E:\Alvaro\DotNet\MVC-MicrosoftTutorial\bin\Debug\netcoreapp2.0\MvcMovie.deps.json
+E:\Alvaro\DotNet\MVC-MicrosoftTutorial\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
+E:\Alvaro\DotNet\MVC-MicrosoftTutorial\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
+E:\Alvaro\DotNet\MVC-MicrosoftTutorial\bin\Debug\netcoreapp2.0\MvcMovie.dll
+E:\Alvaro\DotNet\MVC-MicrosoftTutorial\bin\Debug\netcoreapp2.0\MvcMovie.pdb
+E:\Alvaro\DotNet\MVC-MicrosoftTutorial\obj\Debug\netcoreapp2.0\MvcMovie.csprojAssemblyReference.cache
+E:\Alvaro\DotNet\MVC-MicrosoftTutorial\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
+E:\Alvaro\DotNet\MVC-MicrosoftTutorial\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
+E:\Alvaro\DotNet\MVC-MicrosoftTutorial\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
+E:\Alvaro\DotNet\MVC-MicrosoftTutorial\obj\Debug\netcoreapp2.0\MvcMovie.dll
+E:\Alvaro\DotNet\MVC-MicrosoftTutorial\obj\Debug\netcoreapp2.0\MvcMovie.pdb
